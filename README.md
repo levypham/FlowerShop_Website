@@ -1,2 +1,2 @@
-# FlowerShop_Website
-Create Flower Shop websites using HTML &amp; CSS
+# IndoorPlan_Website
+Create Indoor Plant Shop websites using HTML &amp; CSS
